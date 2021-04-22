@@ -210,6 +210,7 @@ const EditData = props => {
               } else {
                 alert('Failed');
               }
+
             });
           }}
         />
